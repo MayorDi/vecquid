@@ -1,0 +1,12 @@
+[package]
+name = "vecquid"
+version = "0.1.0"
+edition = "2021"
+authors = ["Dmitriy Mayorov<MayorDi@yandex.ru>"]
+license = "GPL-3"
+
+[dependencies]
+log = "0.4.20"
+env_logger = "0.10.1"
+sdl2 = "0.36.0"
+nalgebra = "0.32.3"
